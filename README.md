@@ -51,3 +51,7 @@ Or simply right-click on the `index.html` file and choose **"Open with browser"*
 ## License
 
 This project is open-source and free to use.
+
+## Author
+
+Abhay Shukla
